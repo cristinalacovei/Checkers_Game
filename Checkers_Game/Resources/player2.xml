@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jucator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Culoare>true</Culoare>
+	<Tura>true</Tura>
+	<Nume>Jucator rosu</Nume>
+	<NrPiese>12</NrPiese>
+</Jucator>
